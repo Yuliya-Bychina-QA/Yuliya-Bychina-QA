@@ -6,9 +6,9 @@
 ![DevTools](https://img.shields.io/badge/DevTools-blue)
 ![Swagger](https://img.shields.io/badge/Swagger-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
-![REST_API, SOAP](https://img.shields.io/badge/REST-API,SOAP-blue)
+![REST,-SOAP](https://img.shields.io/badge/REST-API,SOAP-blue)
 ![Kibana](https://img.shields.io/badge/Kibana-blue)
-![HTML, CSS](https://img.shields.io/badge/HTML,CSS-blue)
+![HTML,-CSS](https://img.shields.io/badge/HTML,CSS-blue)
 ![Charles](https://img.shields.io/badge/Charles-blue)
 ![Figma](https://img.shields.io/badge/Figma-blue)
 
