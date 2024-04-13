@@ -1,6 +1,9 @@
 ### Добрый день! 👋
 ![giphy](https://github.com/Yuliya-Bychina-QA/Yuliya-Bychina-QA/assets/165991909/91fc7c81-93b1-47e4-b016-44c1f9d5272e)
 
+##Мой стек
+https://img.shields.io/badge/Postman
+
 <!--
 **Yuliya-Bychina-QA/Yuliya-Bychina-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
