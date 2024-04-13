@@ -1,8 +1,16 @@
 ### Добрый день! 👋
-![giphy](https://github.com/Yuliya-Bychina-QA/Yuliya-Bychina-QA/assets/165991909/91fc7c81-93b1-47e4-b016-44c1f9d5272e)
+![giphy (1)](https://github.com/Yuliya-Bychina-QA/Yuliya-Bychina-QA/assets/165991909/de4224d2-2f27-404e-aa41-cde1b8f43462)
 
-##Мой стек
+### Мой стек
 ![Postman](https://img.shields.io/badge/Postman-blue)
+![DevTools](https://img.shields.io/badge/DevTools-blue)
+![Swagger](https://img.shields.io/badge/Swagger-blue)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![REST-API,SOAP](https://img.shields.io/badge/REST-API,SOAP-blue)
+![Kibana](https://img.shields.io/badge/Kibana-blue)
+![HTML,CSS](https://img.shields.io/badge/HTML,CSS-blue)
+![Charles](https://img.shields.io/badge/Charles-blue)
+![Figma](https://img.shields.io/badge/Figma-blue)
 
 <!--
 **Yuliya-Bychina-QA/Yuliya-Bychina-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
